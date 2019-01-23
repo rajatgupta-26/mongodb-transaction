@@ -17,7 +17,7 @@ Please chose any of below to run your code:
 *  ```node index.js```
 *  Nodemon
 ```npm install nodemon -g``` ```nodemon```
-* #### PM2 
+* PM2 
 ```npm install pm2 -g``` ```pm2 start ecosystem.config.js```
 
 ### Testing
